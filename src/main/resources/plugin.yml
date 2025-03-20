@@ -1,0 +1,7 @@
+name: StalkerGroupWar
+version: '${project.version}'
+main: me.piglinstudio.stalkergroupwar.StalkerGroupWar
+api-version: '1.16'
+commands:
+  fraction:
+  point:
